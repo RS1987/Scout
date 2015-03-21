@@ -1,0 +1,11 @@
+C:\Users\Alex\Source\Repos\pft\addressbook-web-test\addressbook-web-test\bin\Debug\addressbook-web-test.dll
+C:\Users\Alex\Source\Repos\pft\addressbook-web-test\addressbook-web-test\bin\Debug\addressbook-web-test.pdb
+C:\Users\Alex\Source\Repos\pft\addressbook-web-test\addressbook-web-test\obj\Debug\addressbook-web-test.dll
+C:\Users\Alex\Source\Repos\pft\addressbook-web-test\addressbook-web-test\obj\Debug\addressbook-web-test.pdb
+C:\Users\Alex\Source\Repos\pft\addressbook-web-test\addressbook-web-test\bin\Debug\nunit.framework.dll
+C:\Users\Alex\Source\Repos\pft\addressbook-web-test\addressbook-web-test\bin\Debug\WebDriver.dll
+C:\Users\Alex\Source\Repos\pft\addressbook-web-test\addressbook-web-test\bin\Debug\WebDriver.Support.dll
+C:\Users\Alex\Source\Repos\pft\addressbook-web-test\addressbook-web-test\bin\Debug\nunit.framework.xml
+C:\Users\Alex\Source\Repos\pft\addressbook-web-test\addressbook-web-test\bin\Debug\WebDriver.xml
+C:\Users\Alex\Source\Repos\pft\addressbook-web-test\addressbook-web-test\bin\Debug\WebDriver.Support.xml
+C:\Users\Alex\Source\Repos\pft\addressbook-web-test\addressbook-web-test\obj\Debug\addressbook-web-test.csprojResolveAssemblyReference.cache
